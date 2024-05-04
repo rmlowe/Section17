@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ CustomDeleters - Debug ]----------"
-	@cd "CustomDeleters" && "$(MAKE)" -f  "CustomDeleters.mk"
+	@echo "----------Building project:[ Challenge-1 - Debug ]----------"
+	@cd "Challenge-1" && "$(MAKE)" -f  "Challenge-1.mk"
 clean:
-	@echo "----------Cleaning project:[ CustomDeleters - Debug ]----------"
-	@cd "CustomDeleters" && "$(MAKE)" -f  "CustomDeleters.mk" clean
+	@echo "----------Cleaning project:[ Challenge-1 - Debug ]----------"
+	@cd "Challenge-1" && "$(MAKE)" -f  "Challenge-1.mk" clean
