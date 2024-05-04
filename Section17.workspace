@@ -4,8 +4,8 @@
   <Project Name="SharedPointers" Path="SharedPointers/SharedPointers.project" Active="No"/>
   <Project Name="WeakPointers" Path="WeakPointers/WeakPointers.project" Active="No"/>
   <Project Name="CustomDeleters" Path="CustomDeleters/CustomDeleters.project" Active="No"/>
-  <Project Name="Challenge-1" Path="Challenge-1/Challenge-1.project" Active="Yes"/>
-  <Project Name="ChallengeSolution-1" Path="ChallengeSolution-1/ChallengeSolution-1.project"/>
+  <Project Name="Challenge-1" Path="Challenge-1/Challenge-1.project" Active="No"/>
+  <Project Name="ChallengeSolution-1" Path="ChallengeSolution-1/ChallengeSolution-1.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
